@@ -124,7 +124,7 @@ class InsiderController(StockBaseController):
 {has_ticker_end}
 
 [info]Latest Insiders[/info] [src][Open Insider][/src][cmds]
-    lcb           latest cluster boys
+    lcb           latest cluster buys
     lpsb          latest penny stock buys
     lit           latest insider trading (all filings)
     lip           latest insider purchases
